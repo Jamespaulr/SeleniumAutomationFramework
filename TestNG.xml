@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE  SYSTEM "http://java.sun.com/dtd/properties.dtd">-->
+
+<suite name="SeleniumAutomation">
+<test  name="SignUp">
+
+    <classes>
+        <class name="org.orangehrm.testCases.SignUp_001"/>
+    </classes>
+</test>
+</suite>
