@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--<!DOCTYPE  SYSTEM "http://java.sun.com/dtd/properties.dtd">-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="SeleniumAutomation">
-<test  name="SignUp">
+    <listeners>
+        <listener class-name="org.soais.listeners.Listener">
+
+        </listener>
+    </listeners>
+<test thread-count="2"  name="SignUp" parallel="methods">
 
     <classes>
-        <class name="org.orangehrm.testCases.SignUp_001"/>
+        <class name="org.soais.testCases.LoginTest"/>
     </classes>
 </test>
 </suite>

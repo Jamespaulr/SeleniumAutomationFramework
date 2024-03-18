@@ -1,0 +1,17 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ËÅ³øÿÿÿÿ8‚şºã1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù”Æñ8ƒşºã1
+W
+java:S1874":Remove this use of "ExtentHtmlReporter"; it is deprecated.(ù”Æñ8¦şºã1
+W
+java:S1874":Remove this use of "ExtentHtmlReporter"; it is deprecated.(ù”Æñ8§şºã1
+]
+java:S1128"@Remove this unused import 'com.aventstack.extentreports.Status'.(’ ˆ×8ïà„»ã1
+r
+java:S1128"URemove this unused import 'com.aventstack.extentreports.reporter.ExtentKlovReporter'.(ºÕè¹8ñà„»ã1
+P
+java:S1128"3Remove this unused import 'org.testng.ITestResult'.(ä¡±‘8±å¬»ã1
+a
+java:S1128"?Remove this unused import 'org.testng.annotations.AfterMethod'.(ÙÅ«§ÿÿÿÿÿ8²å¬»ã1
+a
+java:S1128"DRemove this unused import 'org.soais.reports.ExtentManager.extTest'.(È²íà8ñà„»ã1
